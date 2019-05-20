@@ -1,0 +1,17 @@
+.logo img {
+    max-width: 220px;
+}
+.login .logo {
+    margin: 0;
+    }
+
+    .login-content {
+    margin-top: 100px;
+}
+.page-container {
+    margin-top: 46px;
+}
+
+img.thumb-img {
+    max-height: 60px;
+}
